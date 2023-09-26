@@ -148,7 +148,7 @@ body{
       }
       .wind-img{
         width: 70%;
-        margin-top: 5%;
+        margin-top: -5%;
       }
       
       .humidity-font{
@@ -161,7 +161,7 @@ body{
       .wind-font{
         color: #fff;
         font-size: 5vw;
-        margin-top: 5%;
+        margin-top: 13%;
         margin-bottom: -30%;
       }
 }
