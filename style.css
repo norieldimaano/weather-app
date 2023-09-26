@@ -136,11 +136,11 @@ body{
       }
       
       .details{
-        justify-content: space-between;
+        justify-content: space-evenly;
       }
       
       .col{
-        margin: 14% 5% 0% 8%;
+        margin: 14% 0% 0% 15%;
       }
       
       .humidity-img{
@@ -149,6 +149,7 @@ body{
       .wind-img{
         width: 70%;
         margin-top: -5%;
+        margin-left: -40%;
       }
       
       .humidity-font{
@@ -162,6 +163,7 @@ body{
         color: #fff;
         font-size: 5vw;
         margin-top: 10%;
+        margin-left: -39%;
         margin-bottom: -30%;
       }
 }
