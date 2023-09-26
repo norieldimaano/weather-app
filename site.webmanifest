@@ -2,8 +2,8 @@
 "short_name":"Weather",
 "icons":
 [
-    {"src":"images/android-chrome-192x192.png","sizes":"1000x1000","type":"image/png"},
-    {"src":"images/android-chrome-512x512.png","sizes":"1000x1000","type":"image/png"}
+    {"src":"/android-chrome-192x192.png","sizes":"1000x1000","type":"image/png"},
+    {"src":"/android-chrome-512x512.png","sizes":"1000x1000","type":"image/png"}
 ],
     "theme_color":"#05cad1",
     "background_color":"#05cad1",
